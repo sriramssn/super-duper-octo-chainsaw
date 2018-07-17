@@ -21,6 +21,7 @@
     <test name="Arrays and Strings test suite">
         <packages>
             <package name="arraysandstrings.problem1_uniquecharacters"/>            
+            <package name="arraysandstrings.problem2_permutation"/>
         </packages>
     </test>
 

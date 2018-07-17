@@ -21,28 +21,6 @@ public class UniqueCharactersTest {
     
     public UniqueCharactersTest() {
     }
-
-    // TODO add test methods here.
-    // The methods must be annotated with annotation @Test. For example:
-    //
-    // @Test
-    // public void hello() {}
-
-    @BeforeClass
-    public static void setUpClass() throws Exception {
-    }
-
-    @AfterClass
-    public static void tearDownClass() throws Exception {
-    }
-
-    @BeforeMethod
-    public void setUpMethod() throws Exception {
-    }
-
-    @AfterMethod
-    public void tearDownMethod() throws Exception {
-    }
     
     @Test(dataProvider = "inputoutput")
     public void isUniqueCharacters_1(String input, boolean result) {
