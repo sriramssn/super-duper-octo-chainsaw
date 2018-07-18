@@ -23,6 +23,7 @@
             <package name="arraysandstrings.problem1_uniquecharacters"/>            
             <package name="arraysandstrings.problem2_permutation"/>
             <package name="arraysandstrings.problem3_urlify"/>
+            <package name="problem4_palindromepermutation"/>
         </packages>
     </test>
 
